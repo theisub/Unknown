@@ -14,9 +14,12 @@ Frontend:
 
 Репозиторий:
 * Gitlab
+
 Багтрекер:
 * Jira/Gitlab Issues
+
 Ревью кода:
 * Upsource/Gitlab
+
 CI:
 * Jenkins/Gitlab CI
