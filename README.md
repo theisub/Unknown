@@ -11,3 +11,12 @@ Backend:
 
 Frontend: 
 * React/Angular/Vue.js
+
+Репозиторий:
+* Gitlab
+Багтрекер:
+* Jira/Gitlab Issues
+Ревью кода:
+* Upsource/Gitlab
+CI:
+* Jenkins/Gitlab CI
